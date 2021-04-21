@@ -10,6 +10,12 @@ h2{
     font-style: italic;
 }
 
+h3{
+    font-size: 0px 10px;
+    font-weight: lighter;
+    font-variant: small-caps;
+}
+
 nav{
     padding: 10px 0;
     text-align: center;
