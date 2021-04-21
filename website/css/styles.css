@@ -1,0 +1,18 @@
+/* Global Styles */
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #0066ff;
+}
+
+nav{
+    padding: 30px 0;
+    text-align: center;
+    border-radius: 35px;
+    border-style: groove;
+    background-color: grey; 
+}
+
+Nav:hover{
+    color: ivory;
+}
